@@ -1,5 +1,11 @@
-### Hi there 👋
+### Saúl Huerta 👋
 
+- ✨ I'm a Java Developer
+- 🌱 I’m currently learning NodeJS/Express
+
+Feel free to explore my [repositories][repos]
+
+[repos]: https://github.com/saulhuerta?tab=repositories
 <!--
 **saulhuerta/saulhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
