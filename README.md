@@ -3,7 +3,7 @@
 - ✨ I'm a Java Backend Developer / SysAdmin
 - 😄 I'm currently working on [Unosquare][uno]
 - 🌱 I’m currently learning:
--- Express - Node.js
+  - Express - Node.js
 
 
 Feel free to explore my [repositories][repos] or my [blog][my_web]
