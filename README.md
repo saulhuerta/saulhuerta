@@ -1,11 +1,15 @@
 ### Saúl Huerta 👋
 
-- ✨ I'm a Java Developer
+- ✨ I'm a Java Backend Developer / SysAdmin
 - 🌱 I’m currently learning NodeJS/Express
+- 😄 I'm currently working in [Unosquare][uno]
 
-Feel free to explore my [repositories][repos]
+Feel free to explore my [repositories][repos] or my [blog][my_web]
 
 [repos]: https://github.com/saulhuerta?tab=repositories
+[my_web]: https://saulh.wordpress.com/
+[uno]: https://www.unosquare.com/
+
 <!--
 **saulhuerta/saulhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
