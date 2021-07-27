@@ -1,8 +1,10 @@
 ### Saúl Huerta 👋
 
 - ✨ I'm a Java Backend Developer / SysAdmin
-- 🌱 I’m currently learning NodeJS/Express
-- 😄 I'm currently working in [Unosquare][uno]
+- 😄 I'm currently working on [Unosquare][uno]
+- 🌱 I’m currently learning:
+-- Express - Node.js
+
 
 Feel free to explore my [repositories][repos] or my [blog][my_web]
 
