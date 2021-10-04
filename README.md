@@ -1,16 +1,17 @@
 ### Saúl Huerta 👋
 
 - ✨ I'm a Java Backend Developer / SysAdmin
-- 😄 I'm currently working on [Unosquare][uno]
+- 😄 I'm currently working on [Apex Systems][apex]
 - 🌱 I’m currently learning:
   - Express - Node.js
 
 
-Feel free to explore my [repositories][repos] or my [blog][my_web]
+Feel free to explore my [repositories][repos],my [Wordpress][my_web] and [Hashnode][hashnode]
 
 [repos]: https://github.com/saulhuerta?tab=repositories
 [my_web]: https://saulh.wordpress.com/
-[uno]: https://www.unosquare.com/
+[hashnode]: https://saul.hashnode.dev/
+[apex]: https://www.apexsystems.com/
 
 <!--
 **saulhuerta/saulhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
