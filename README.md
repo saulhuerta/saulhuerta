@@ -6,7 +6,7 @@
   - Express - Node.js
 
 
-Feel free to explore my [repositories][repos],my [Wordpress][my_web] and [Hashnode][hashnode]
+Feel free to explore my [repositories][repos], my [Wordpress][my_web] and [Hashnode][hashnode]
 
 [repos]: https://github.com/saulhuerta?tab=repositories
 [my_web]: https://saulh.wordpress.com/
