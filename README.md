@@ -3,7 +3,7 @@
 - ✨ I'm a Java Backend Developer / SysAdmin
 - 😄 I'm currently working on [Apex Systems][apex]
 - 🌱 I’m currently learning:
-  - Express - Node.js - Terraform - Camunda
+  - Terraform - Camunda - AWS - Express - Node.js 
 
 
 Feel free to explore my [repositories][repos], my [Wordpress][my_web] and [Hashnode][hashnode]
