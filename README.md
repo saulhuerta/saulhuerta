@@ -1,9 +1,9 @@
 ### Saúl Huerta 👋
 
-- ✨ I'm a Java Backend Developer / SysAdmin
-- 😄 I'm currently working on [Apex Systems][apex]
+- ✨ I'm a Senior Technical Lead / Java Dev / SysAdmin 
+- 😄 I'm currently working on [HCLTech](https://www.hcltech.com/geo-presence/mexico)]
 - 🌱 I’m currently learning:
-  - Terraform - Camunda - AWS - Express - Node.js 
+  - Cybersecurity - Python - AI - GCP - AWS - Terraform - Camunda -
 
 
 Feel free to explore my [repositories][repos], my [Wordpress][my_web] and [Hashnode][hashnode]
@@ -11,7 +11,7 @@ Feel free to explore my [repositories][repos], my [Wordpress][my_web] and [Hashn
 [repos]: https://github.com/saulhuerta?tab=repositories
 [my_web]: https://saulh.wordpress.com/
 [hashnode]: https://saul.hashnode.dev/
-[apex]: https://www.apexsystems.com/
+[HCLTech]: https://www.hcltech.com/geo-presence/mexico
 
 <!--
 **saulhuerta/saulhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
