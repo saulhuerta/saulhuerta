@@ -3,7 +3,7 @@
 - ✨ I'm a Senior Technical Lead / Java Dev / SysAdmin 
 - 😄 I'm currently working on [HCLTech](https://www.hcltech.com/geo-presence/mexico)
 - 🌱 I’m currently learning:
-  - Cybersecurity - Python - AI - GCP - AWS - Terraform - Camunda -
+  - Cybersecurity - Python - AI - GCP - AWS - Terraform - Camunda
 
 
 Feel free to explore my [repositories][repos], my [Wordpress][my_web] and [Hashnode][hashnode]
