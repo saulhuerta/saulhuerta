@@ -1,7 +1,7 @@
 ### Saúl Huerta 👋
 
 - ✨ I'm a Senior Technical Lead / Java Dev / SysAdmin 
-- 😄 I'm currently working on [HCLTech](https://www.hcltech.com/geo-presence/mexico)]
+- 😄 I'm currently working on [HCLTech](https://www.hcltech.com/geo-presence/mexico)
 - 🌱 I’m currently learning:
   - Cybersecurity - Python - AI - GCP - AWS - Terraform - Camunda -
 
